@@ -1,0 +1,2 @@
+# Tetris-Game-js
+ Dalam game Tetris JavaScript, pemain dihadapkan pada grid persegi yang terdiri dari kotak-kotak kecil. Blok-blok berbentuk berbeda jatuh dari bagian atas grid dengan kecepatan semakin meningkat. Pemain dapat menggerakkan dan memutar blok-blok ini menggunakan tombol-tombol khusus.  Tujuan utama adalah menyusun blok-blok tersebut sedemikian rupa sehingga membentuk baris penuh secara horizontal. Saat baris penuh berhasil dibentuk, baris tersebut akan lenyap dan memberi pemain ruang kosong untuk terus memainkan permainan.
